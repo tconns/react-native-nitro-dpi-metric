@@ -1,0 +1,19 @@
+{
+  "$schema": "https://nitro.margelo.com/nitro.schema.json",
+  "cxxNamespace": ["dpimetric"],
+  "ios": {
+    "iosModuleName": "NitroDpiMetric"
+  },
+  "android": {
+    "androidNamespace": ["dpimetric"],
+    "androidCxxLibName": "NitroDpiMetric"
+  },
+  "autolinking": {
+    "NitroDpiMetric": {
+      "swift": "NitroDpiMetric",
+      "kotlin": "NitroDpiMetric"
+    }
+  },
+  "ignorePaths": ["**/node_modules"],
+  "gitAttributesGeneratedFlag": false
+}
