@@ -1,7 +1,7 @@
 {
   "name": "react-native-nitro-dpi-metric",
-  "version": "0.0.1",
-  "description": "NitroModule System Navigation Bar Android",
+  "version": "0.0.2",
+  "description": "NitroModule DPI Metric",
   "main": "lib/index",
   "module": "lib/index",
   "types": "lib/index.d.ts",
