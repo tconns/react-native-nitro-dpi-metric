@@ -1,6 +1,6 @@
 {
   "name": "react-native-nitro-dpi-metric",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "NitroModule DPI Metric",
   "main": "lib/index",
   "module": "lib/index",

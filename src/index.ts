@@ -12,7 +12,7 @@ export function isTablet(): boolean {
   return NitroDpiMetricHybridObject.isTablet()
 }
 
-export function showNavigationBar(): number {
+export function deviceInch(): number {
   return NitroDpiMetricHybridObject.deviceInch()
 }
 
