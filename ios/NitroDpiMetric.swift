@@ -14,7 +14,7 @@ class NitroDpiMetric: HybridNitroDpiMetricSpec {
     }
 
     public func getDpi() throws -> Double {
-        return getDevicePPI()
+        return Double(getDevicePPI())
     }
 
     public func deviceInch() throws -> Double {
